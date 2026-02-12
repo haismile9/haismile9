@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Nguyễn Hồng Hải
+### 👋 Hi, I'm Nguyễn Hồng Hải!
 I'm a Web Developer
 
 Contact: nguyenhai@haismile.dev
