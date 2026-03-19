@@ -47,6 +47,6 @@
 </details>
 
 
-[website]: https://adityas-portfolio.netlify.app
-[instagram]: https://instagram.com/adithinksinstaisshit
-[linkedin]: https://linkedin.com/in/aditya-kumawat
+[website]: https://haismile.dev
+[instagram]: https://instagram.com/smile.tsx
+[linkedin]: https://www.linkedin.com/in/smile9
