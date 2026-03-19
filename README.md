@@ -2,11 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fhaismile.dev)](https://haismile.dev/)
 
-## I'm new, but a passionate Developer!
+## I'm new, but a passionate Backend Developer!
 
 - 🌱 I’m have 1 years for Full-stack developer.
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn more web technologies and focus on UI/UX and data anakysis.
+- 👯 I’m looking to collaborate with seniors
+- 🥅 2025 Goals: Learn more web technologies and focus on UI/UX and data anakysis.
 - ⚡ Fun fact: I love creating new projects, discussing socio-economic issues.
 
 ### Connect with me:
