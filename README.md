@@ -35,6 +35,12 @@
 
 </details>
 
+<details>
+  <summary>🔆Top Languages </summary>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haismile9&layout=compact&theme=radical)
+
+</details>
 
 [website]: https://haismile.dev
 [instagram]: https://instagram.com/smile.tsx
