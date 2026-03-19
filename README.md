@@ -12,7 +12,7 @@
 ### Connect with me:
 
 <p align="left">
-  <a href="https://haismile.dev" target="_blank"><img src="https://skillicons.dev/icons?i=p_web" height="26" alt="portfolio" /></a>
+  <a href="https://haismile.dev" target="_blank"><img src="https://skillicons.dev/icons?i=htmx" height="26" alt="portfolio" /></a>
   <a href="https://www.linkedin.com/in/smile9" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="26" alt="linkedin" /></a>
   <a href="https://instagram.com/smile.tsx" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="26" alt="instagram" /></a>
 </p>
