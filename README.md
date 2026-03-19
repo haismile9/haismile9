@@ -11,9 +11,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="aditya-kumawat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="adithinksinstaisshit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align="left">
+  <a href="https://haismile.dev" target="_blank"><img src="https://skillicons.dev/icons?i=p_web" height="26" alt="portfolio" /></a>
+  <a href="https://www.linkedin.com/in/smile9" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="26" alt="linkedin" /></a>
+  <a href="https://instagram.com/smile.tsx" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="26" alt="instagram" /></a>
+</p>
 
 <br />
 
