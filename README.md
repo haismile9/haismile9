@@ -29,7 +29,7 @@
 <details>
    <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AdityaKumawat97&show_icons=true&hide_border=true" />
+  <img align="left" alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haismile9&show_icons=true&hide_border=true" />
 
 </details>
 
