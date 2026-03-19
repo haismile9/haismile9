@@ -1,6 +1,6 @@
 ### Hi there, I'm Nguyen Hong Hai (Smile) 👋
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]([https://adityas-portfolio.netlify.app](https://haismile.dev/))
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fhaismile.dev)](https://haismile.dev/)
 
 ## I'm new, but a passionate Developer!
 
