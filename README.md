@@ -21,7 +21,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,sass,js,ts,react,nextjs,nodejs,express,mongodb,mysql,java,git,github,docker,vercel,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,sass,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,docker,postman)](https://skillicons.dev)
 
 <br />
 <br />
