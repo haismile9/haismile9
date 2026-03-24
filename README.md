@@ -29,13 +29,6 @@
 ---
 
 <details>
-   <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haismile9&show_icons=true&hide_border=true&count_private=true" />
-
-</details>
-
-<details>
   <summary>🔆Top Languages </summary>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haismile9&layout=compact&theme=radical)
